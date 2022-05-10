@@ -1,0 +1,16 @@
+Thread 1 Start: 1 7 9 12 18 19 23 23 26 33 40 45 58 67 90  Thread 1 Ends.
+Thread 2 Start: 6 7 11 12 24 26 67 98  Thread 2 Ends.
+Thread 3 Start: 1 9 11 19 21 29 31 39 41 49 51 59 61 69 71 79 81 89 91  Thread 3 Ends.
+Thread 4 Start: 4 6 19 20 23 32 33 42 54 65 78 89 89 99  Thread 4 Ends.
+Thread 5 Start: 1 3 5 7 9  Thread 5 Ends.
+Thread 6 Start: 7 17 27 37 47 57 67 77 87 97  Thread 6 Ends.
+Thread 7 Start: 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97  Thread 7 Ends.
+Thread 8 Start: 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97  Thread 8 Ends.
+Thread 9 Start: 2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97  Thread 9 Ends.
+Thread 10 Start: 4 6 19 20 23 32 33 42 54 65 78 89 89 99  Thread 10 Ends.
+Thread 11 Start: 1 7 9 11 19 21 29 31 39 41 49 51 59 61 69 71 81 89 91  Thread 11 Ends.
+Thread 12 Start: 1 9 12 18 23 23 45 67 90  Thread 12 Ends.
+Thread 13 Start: 31 41 51 61 71 81 91  Thread 13 Ends.
+Thread 14 Start: 5 7 11 13 17 19 23 29 31  Thread 14 Ends.
+Thread 15 Start: 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71  Thread 15 Ends.
+Row major sorting complete
